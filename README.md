@@ -3,6 +3,7 @@
 
 - 📫 Reach me via email: **taekyu.lee3@gmail.com**
 - 📄 Know about my experiences: **https://www.linkedin.com/in/taelee3/**
+- 💼 Portfolio: **taelee.dev**
 
 
 <h3 align="center">Languages and Tools:</h3>
