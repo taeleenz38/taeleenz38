@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tae</h1>
-<h3 align="center">A highly motivated web dev with a love for front end design.</h3>
+<h3 align="center">A highly motivated web3 developer with a love for front end design.</h3>
 
 - 📫 Reach me via email: **taekyu.lee3@gmail.com**
 - 📄 Know about my experiences: **https://www.linkedin.com/in/taelee3/**
