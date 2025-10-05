@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taeleenz38&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeleenz38&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeleenz38&layout=compact&theme=vue&hide_border=true&hide=rust" alt="Top Languages" />
 </div>
 
 
