@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;i'm+tae;web3+dev+%26+frontend+vibes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;i'm+tae;web3+frontend+dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 ## 🛠️ what i work with
 
-<div align="center">
+<div align="left">
   
 ### frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
