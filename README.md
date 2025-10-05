@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;i'm+tae;web3+frontend+dev" alt="Typing SVG" />
 </div>
 
+
 ---
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taeleenz38&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -51,7 +53,9 @@
 
 </div>
 
+
 ---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
