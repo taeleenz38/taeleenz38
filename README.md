@@ -14,7 +14,7 @@
 
 ## 🛠️ what i work with
 
-<div align="left">
+<div align="left" style="padding-left; 2rem">
   
 ### frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
