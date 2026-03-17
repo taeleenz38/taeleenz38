@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 hey, i'm tae
+# Tae Lee
 ### web3 engineer • frontend-first • smart contract builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+usable+DeFi+products;Solidity+%2B+Foundry+%2B+Hardhat;Next.js+%2B+TypeScript+%2B+wagmi+%2B+viem;Shipping+clean+UX+for+complex+onchain+flows" alt="Typing SVG" />
