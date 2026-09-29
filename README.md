@@ -15,13 +15,6 @@
 
 ---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taeleenz38&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeleenz38&layout=compact&theme=transparent&hide_border=true&hide=rust" alt="Top Languages" />
-</div>
-
----
-
 ## 🧠 what i build
 
 - DeFi interfaces that make complex protocol interactions feel simple
