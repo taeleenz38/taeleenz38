@@ -63,5 +63,5 @@ Frontend engineer in Melbourne. I build interfaces for products with too much da
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=110&sectionfooter" />
 </div>
